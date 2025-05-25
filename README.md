@@ -1,4 +1,5 @@
-# 🎓 Student Performance Predictor (Öğrenci Başarı Tahminleyici)
+# 🎓 Neuron-Egitme-Projesi
+
 
 ## 📌 Proje Açıklaması
 Bu proje, öğrencilerin çalışma süresi ve derse devam sürelerini analiz ederek sınavdan alacakları başarıyı tahmin etmeyi amaçlayan basit bir yapay sinir ağı modelidir.  
