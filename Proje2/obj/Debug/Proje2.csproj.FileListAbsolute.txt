@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\melih\source\repos\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\melih\source\repos\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\melih\source\repos\Proje2\Proje2\obj\Debug\Proje2.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\melih\source\repos\Proje2\Proje2\obj\Debug\Proje2.pdb
